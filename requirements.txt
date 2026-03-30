@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+nltk
+spacy
+jupyter
+notebook
+requests
+biopython
+wordcloud
+plotly
