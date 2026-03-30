@@ -1,6 +1,9 @@
 # Healthcare-AI-literacy-CapstoneProject
 Capstone project on AI literacy in healthcare using NLP and knowledge mapping
+<<<<<<< HEAD
 # Healthcare AI Literacy Capstone Project
+=======
+>>>>>>> 414aee059ed4ef642461c8c47bba485f2b7c4b5f
 
 ## Overview
 This project focuses on AI literacy in healthcare data. It combines literature analysis using NLP techniques with the design of a conceptual web-based platform for healthcare AI literacy.
@@ -19,4 +22,8 @@ This project focuses on AI literacy in healthcare data. It combines literature a
 - `results/` → figures, tables, and outputs
 
 ## Current Status
+<<<<<<< HEAD
 Project setup in progress.
+=======
+Project setup in progress.
+>>>>>>> 414aee059ed4ef642461c8c47bba485f2b7c4b5f
